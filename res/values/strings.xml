@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Video Capture Demo</string>
+    <string name="your_video">Your Video</string>
+    <string name="back">Back</string>
+    <string name="record">Record</string>
+    <string name="cannot_record">Cannot record</string>
+    <string name="recording">Recording</string>
+    <string name="saved">Saved video</string>
+    <string name="stop">Stop</string>
+    <string name="play">Play</string>
+    <string name="playing">Playing</string>
+    <string name="delete">Delete</string>
+    <string name="deleted">Deleted</string>
+    <string name="cannot_delete">Cannot delete</string>
+    <string name="completed_playback">Completed playback</string>
+
+</resources>
